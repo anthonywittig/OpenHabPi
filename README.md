@@ -3,4 +3,5 @@
 * https://www.openhab.org/docs/installation/docker.html#installation-through-docker
 * Running version `2.5.9`
 * Add `--device` option to docker command
-* Add z-wave binding (paperui/index.html#/extensions?tab=binding)
+* Add z-wave binding (paperui/index.html#/extensions?tab=binding) (probably needed?)
+* Paper UI -> Configuration -> Things -> + -> z-wave binding, controller (what ever)
