@@ -4,4 +4,4 @@
 * Running version `2.5.9`
 * Add `--device` option to docker command
 * Add z-wave binding (paperui/index.html#/extensions?tab=binding) (probably needed?)
-* Paper UI -> Configuration -> Things -> + -> z-wave binding, controller (what ever)
+* Paper UI -> Configuration -> Things -> + -> z-wave binding, controller (whatever)
