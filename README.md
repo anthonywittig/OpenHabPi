@@ -6,6 +6,7 @@
 * Add z-wave binding (paperui/index.html#/extensions?tab=binding) (probably needed?)
 * Paper UI -> Configuration -> Things -> + -> z-wave binding, controller (whatever)
 * Paper UI -> Inbox  -> Search For Things (put device in add/discover mode)
+    * With z-stick, you can unplug it, walk over to device, press button on z-stick and press pairing button on device. The z-stick controller blinks blue really quickly if it successfully pairs.
 * Paper UI -> Configuration -> Things -> click on new thing -> edit to set properties
 * Paper UI -> Configuration -> Things -> click on new thing -> Channels -> click on one of them and link the channel to a new item.
 * Paper UI -> Control (to control stuff)
