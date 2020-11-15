@@ -13,7 +13,9 @@
 
 # One-off Running On Mac
 
-Plug in the z-stick. To find the device, use the [manual](https://aeotec.freshdesk.com/support/solutions/articles/6000092802-z-stick-gen5-quick-start-just-the-essentials) `ls /dev/cu.usbmodem*` (someone said you have to use the /dev/tty version but I can't get either to work...
+Never got this working.
+
+Plug in the z-stick. To find the device, use the [manual](https://aeotec.freshdesk.com/support/solutions/articles/6000092802-z-stick-gen5-quick-start-just-the-essentials) `ls /dev/cu.usbmodem*` (someone said you have to use the /dev/tty version but I can't get either to work).
 
 ```sh
 mkdir -p ~/Documents/openhab/conf && mkdir ~/Documents/openhab/userdata && mkdir ~/Documents/openhab/addons
